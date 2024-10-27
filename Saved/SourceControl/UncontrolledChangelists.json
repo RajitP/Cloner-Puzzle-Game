@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/Save_PlayerRecordedInfo.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/Struct_PlayerInfo.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/BP_Clone.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/StartZone.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Materials/M_startZoneGlow.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/UI_elements.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3D/51YU1I8DDGFK8HC9CM173G.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/Struct_CloneTimeline.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/CloneTimelineStruct.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/PlayerInfoStruct.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/PlayerInfoAtTick_Struct.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QI/JBFPXQKMUM748E1U6OG858.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/PlayerInfoStruct.uasset",
+				"G:/Projects/CM games assignment/SampleThirdPerson/Content/ThirdPerson/Blueprints/Struct_ArrayOfClones.uasset"
+			]
+		}
+	]
+}
