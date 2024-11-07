@@ -1,1 +1,96 @@
-[1101/181107.268:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1107/181037.044:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(85,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1107/181037.164:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(131,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(133,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(169,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1107/181044.146:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(155,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1107/181044.194:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(155,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1107/181044.240:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(155,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1107/181045.416:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(408,10-38): warning X4008: floating point division by zero
+C:\fakepath(408,10-38): warning X4008: floating point division by zero
+
+[1107/181147.238:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1108/011920.139:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/011920.185:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/011925.178:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/011930.238:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012012.443:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012014.295:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012017.459:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012019.298:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012022.464:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012024.299:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012027.474:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012029.302:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012032.489:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012034.304:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012037.503:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012039.306:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012042.520:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012044.310:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012047.528:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012049.313:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012052.537:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012054.316:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012057.549:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012059.319:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012102.561:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012104.321:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012107.574:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012109.323:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012112.591:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012114.326:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012117.600:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012119.330:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012122.614:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012124.333:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012127.621:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012129.336:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012132.629:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012134.337:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012137.642:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012139.340:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012142.660:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012144.343:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012147.674:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012149.347:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012152.691:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012154.350:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012157.706:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012159.352:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012202.711:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012204.355:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012207.728:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012209.358:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012212.732:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012214.362:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012217.742:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012219.364:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012222.759:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012224.367:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012227.763:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012229.369:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012232.768:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012234.371:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012237.780:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012239.374:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012242.787:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012244.377:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012247.791:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012249.378:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012252.804:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012254.382:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012257.812:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012259.386:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012302.822:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1108/012304.389:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
